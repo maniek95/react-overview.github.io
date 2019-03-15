@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/maniek95/react-overview.github.io",
-  "name": "github-overview",
+  "homepage": "https://maniek95.github.io/react-overview.github.io/",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
