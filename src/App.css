@@ -19,6 +19,16 @@
   color: white;
 }
 
+.name-of-website{
+  color: #61dafb;
+  float: left;
+  margin-right: 90px;
+  border-bottom: #61dafb solid 3px;
+}
+.name-of-website:hover{
+  color: white;
+  border-bottom: #61dafb solid 3px;
+}
 .App-link {
   color: #61dafb;
 }
@@ -58,6 +68,10 @@ li{
 a:hover{
 
   color: #61dafb;
-  padding-bottom: 10px;
-  border-bottom:  #61dafb solid 2px;
+  padding-bottom: 18px;
+  border-bottom:  #61dafb solid 3px;
+}
+
+.Component-Presentation{
+  padding: 10px;
 }

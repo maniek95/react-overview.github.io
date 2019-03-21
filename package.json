@@ -1,5 +1,4 @@
 {
-  "homepage": "https://maniek95.github.io/react-overview.github.io/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +11,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "run": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
